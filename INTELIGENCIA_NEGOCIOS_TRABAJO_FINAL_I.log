@@ -1,0 +1,719 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2019.4.1)  30 APR 2019 18:06
+entering extended mode
+**./INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.tex
+(INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.d
+ef"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cf
+g"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\sp
+anish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.de
+f"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel
+.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+s.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf
+.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvte
+x.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
+x.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.cfg"))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks19
+\float@box=\box26
+\@float@everytoks=\toks20
+\@floatcapt=\box27
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
+sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen114
+))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
+ty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks22
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\stackre
+l.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multiro
+w.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count107
+\multirow@dima=\skip47
+\bigstrutjot=\dimen123
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.
+sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) (INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
+(Secciones/Actividad05.aux) (Secciones/Actividad06.aux))
+\openout1 = `INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box30
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks28
+)
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\DEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./Imagenes/logo.jpg, id=1, 276.03125pt x 183.68625pt>
+File: ./Imagenes/logo.jpg Graphic file (type jpg)
+<use ./Imagenes/logo.jpg>
+Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 227.62204pt x 151.47853pt.
+[1
+
+{C:/Users/DEPIS01/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
+s/logo.jpg>] (INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.toc'.
+
+ [1]
+\openout2 = `Secciones/Actividad01.aux'.
+
+
+(Secciones/Actividad01.tex
+Overfull \hbox (11.08951pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/17.28 Parte 01 - IN-TRO-DUC-CION BU-SI-NESS MO-DEL CAN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+
+ []
+
+
+Overfull \hbox (32.04659pt too wide) in paragraph at lines 39--44
+[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+) [2]
+\openout2 = `Secciones/Actividad02.aux'.
+
+ (Secciones/Actividad02.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+
+ []
+
+[3
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+
+ []
+
+<./Imagenes/clientes.jpg, id=20, 963.6pt x 894.34125pt>
+File: ./Imagenes/clientes.jpg Graphic file (type jpg)
+<use ./Imagenes/clientes.jpg>
+Package pdftex.def Info: ./Imagenes/clientes.jpg  used on input line 72.
+(pdftex.def)             Requested size: 284.52756pt x 264.07402pt.
+[4]
+<./Imagenes/clientes2.jpg, id=24, 963.6pt x 643.40375pt>
+File: ./Imagenes/clientes2.jpg Graphic file (type jpg)
+<use ./Imagenes/clientes2.jpg>
+Package pdftex.def Info: ./Imagenes/clientes2.jpg  used on input line 78.
+(pdftex.def)             Requested size: 284.52756pt x 189.97917pt.
+) [5 <./Imagenes/clientes.jpg> <./Imagenes/clientes2.jpg>]
+\openout2 = `Secciones/Actividad03.aux'.
+
+
+(Secciones/Actividad03.tex
+<./Imagenes/ley1.png, id=29, 893.58844pt x 755.07094pt>
+File: ./Imagenes/ley1.png Graphic file (type png)
+<use ./Imagenes/ley1.png>
+Package pdftex.def Info: ./Imagenes/ley1.png  used on input line 5.
+(pdftex.def)             Requested size: 284.52756pt x 240.41788pt.
+<./Imagenes/ley2.png, id=30, 634.62094pt x 457.71pt>
+File: ./Imagenes/ley2.png Graphic file (type png)
+<use ./Imagenes/ley2.png>
+Package pdftex.def Info: ./Imagenes/ley2.png  used on input line 9.
+(pdftex.def)             Requested size: 284.52756pt x 205.21332pt.
+<./Imagenes/ley3.png, id=31, 464.4853pt x 341.02406pt>
+File: ./Imagenes/ley3.png Graphic file (type png)
+<use ./Imagenes/ley3.png>
+Package pdftex.def Info: ./Imagenes/ley3.png  used on input line 13.
+(pdftex.def)             Requested size: 284.52756pt x 208.90378pt.
+ [6
+
+
+ <./Imagenes/ley1.png> <./Imagenes/ley2.png>]
+<./Imagenes/ley4.png, id=35, 1441.63594pt x 631.60968pt>
+File: ./Imagenes/ley4.png Graphic file (type png)
+<use ./Imagenes/ley4.png>
+Package pdftex.def Info: ./Imagenes/ley4.png  used on input line 17.
+(pdftex.def)             Requested size: 284.52756pt x 124.65239pt.
+<./Imagenes/ley6.png, id=36, 1018.55531pt x 745.28438pt>
+File: ./Imagenes/ley6.png Graphic file (type png)
+<use ./Imagenes/ley6.png>
+Package pdftex.def Info: ./Imagenes/ley6.png  used on input line 21.
+(pdftex.def)             Requested size: 284.52756pt x 208.1892pt.
+<./Imagenes/ley7.png, id=37, 660.21657pt x 648.17157pt>
+File: ./Imagenes/ley7.png Graphic file (type png)
+<use ./Imagenes/ley7.png>
+Package pdftex.def Info: ./Imagenes/ley7.png  used on input line 25.
+(pdftex.def)             Requested size: 284.52756pt x 279.34131pt.
+
+[7 <./Imagenes/ley3.png> <./Imagenes/ley4.png> <./Imagenes/ley6.png>]
+<./Imagenes/ley8.png, id=41, 832.61063pt x 648.17157pt>
+File: ./Imagenes/ley8.png Graphic file (type png)
+<use ./Imagenes/ley8.png>
+Package pdftex.def Info: ./Imagenes/ley8.png  used on input line 29.
+(pdftex.def)             Requested size: 284.52756pt x 221.5029pt.
+<./Imagenes/ley9.png, id=42, 832.61063pt x 656.4525pt>
+File: ./Imagenes/ley9.png Graphic file (type png)
+<use ./Imagenes/ley9.png>
+Package pdftex.def Info: ./Imagenes/ley9.png  used on input line 33.
+(pdftex.def)             Requested size: 284.52756pt x 224.3328pt.
+ [8 <./Imagenes/ley7.png> <./Imagenes/ley8.png>]
+<./Imagenes/ley10.png, id=46, 847.66687pt x 620.3175pt>
+File: ./Imagenes/ley10.png Graphic file (type png)
+<use ./Imagenes/ley10.png>
+Package pdftex.def Info: ./Imagenes/ley10.png  used on input line 37.
+(pdftex.def)             Requested size: 284.52756pt x 208.21703pt.
+) [9 <./Imagenes/ley9.png> <./Imagenes/ley10.png>]
+\openout2 = `Secciones/Actividad05.aux'.
+
+ (Secciones/Actividad05.tex
+<./Imagenes/1.png, id=50, 587.19376pt x 370.38374pt>
+File: ./Imagenes/1.png Graphic file (type png)
+<use ./Imagenes/1.png>
+Package pdftex.def Info: ./Imagenes/1.png  used on input line 25.
+(pdftex.def)             Requested size: 284.52756pt x 179.472pt.
+ [10
+
+
+ <./Imagenes/1.png>]
+<./Imagenes/2.png, id=55, 770.88pt x 578.16pt>
+File: ./Imagenes/2.png Graphic file (type png)
+<use ./Imagenes/2.png>
+Package pdftex.def Info: ./Imagenes/2.png  used on input line 71.
+(pdftex.def)             Requested size: 284.52756pt x 213.39536pt.
+ [11] [12 <./Imagenes/2.png>] [13]) [14]
+\openout2 = `Secciones/Actividad06.aux'.
+
+ (Secciones/Actividad06.tex
+<./Imagenes/3.png, id=69, 602.25pt x 209.28188pt>
+File: ./Imagenes/3.png Graphic file (type png)
+<use ./Imagenes/3.png>
+Package pdftex.def Info: ./Imagenes/3.png  used on input line 7.
+(pdftex.def)             Requested size: 284.52756pt x 98.87662pt.
+<./Imagenes/4.png, id=71, 443.40656pt x 294.34969pt>
+File: ./Imagenes/4.png Graphic file (type png)
+<use ./Imagenes/4.png>
+Package pdftex.def Info: ./Imagenes/4.png  used on input line 34.
+(pdftex.def)             Requested size: 426.79134pt x 283.33601pt.
+<./Imagenes/5.png, id=72, 572.1375pt x 386.19281pt>
+File: ./Imagenes/5.png Graphic file (type png)
+<use ./Imagenes/5.png>
+Package pdftex.def Info: ./Imagenes/5.png  used on input line 45.
+(pdftex.def)             Requested size: 426.79134pt x 288.08818pt.
+<./Imagenes/6.png, id=73, 474.27188pt x 324.46219pt>
+File: ./Imagenes/6.png Graphic file (type png)
+<use ./Imagenes/6.png>
+Package pdftex.def Info: ./Imagenes/6.png  used on input line 52.
+(pdftex.def)             Requested size: 426.79134pt x 291.9885pt.
+<./Imagenes/7.png, id=74, 351.56343pt x 374.14781pt>
+File: ./Imagenes/7.png Graphic file (type png)
+<use ./Imagenes/7.png>
+Package pdftex.def Info: ./Imagenes/7.png  used on input line 60.
+(pdftex.def)             Requested size: 426.79134pt x 454.20457pt.
+ [15
+
+
+ <./Imagenes/3.png>]
+[16 <./Imagenes/4.png>] [17 <./Imagenes/5.png>] [18 <./Imagenes/6.png>]
+[19 <./Imagenes/7.png>] [20]
+<./Imagenes/8.png, id=98, 301.125pt x 174.6525pt>
+File: ./Imagenes/8.png Graphic file (type png)
+<use ./Imagenes/8.png>
+Package pdftex.def Info: ./Imagenes/8.png  used on input line 319.
+(pdftex.def)             Requested size: 284.52756pt x 165.04214pt.
+<./Imagenes/9.png, id=99, 1027.58907pt x 546.54187pt>
+File: ./Imagenes/9.png Graphic file (type png)
+<use ./Imagenes/9.png>
+Package pdftex.def Info: ./Imagenes/9.png  used on input line 326.
+(pdftex.def)             Requested size: 483.69684pt x 257.26666pt.
+<./Imagenes/10.png, id=100, 463.185pt x 260.5005pt>
+File: ./Imagenes/10.png Graphic file (type png)
+<use ./Imagenes/10.png>
+Package pdftex.def Info: ./Imagenes/10.png  used on input line 333.
+(pdftex.def)             Requested size: 483.69684pt x 272.05095pt.
+<./Imagenes/11.png, id=101, 566.86781pt x 371.88937pt>
+File: ./Imagenes/11.png Graphic file (type png)
+<use ./Imagenes/11.png>
+Package pdftex.def Info: ./Imagenes/11.png  used on input line 340.
+(pdftex.def)             Requested size: 483.69684pt x 317.33316pt.
+<./Imagenes/12.png, id=102, 457.272pt x 244.404pt>
+File: ./Imagenes/12.png Graphic file (type png)
+<use ./Imagenes/12.png>
+Package pdftex.def Info: ./Imagenes/12.png  used on input line 352.
+(pdftex.def)             Requested size: 483.69684pt x 258.53745pt.
+<./Imagenes/13.png, id=103, 809.27344pt x 365.86688pt>
+File: ./Imagenes/13.png Graphic file (type png)
+<use ./Imagenes/13.png>
+Package pdftex.def Info: ./Imagenes/13.png  used on input line 358.
+(pdftex.def)             Requested size: 483.69684pt x 218.67883pt.
+) [21 <./Imagenes/8.png>] [22 <./Imagenes/9.png> <./Imagenes/10.png>] [23 <./Im
+agenes/11.png> <./Imagenes/12.png>] [24 <./Imagenes/13.png>] (INTELIGENCIA_NEGO
+CIOS_TRABAJO_FINAL_I.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux) (Secciones/Actividad02.aux) (Secciones/Actividad03
+.aux)
+(Secciones/Actividad05.aux) (Secciones/Actividad06.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3785 strings out of 492973
+ 56229 string characters out of 3125807
+ 138248 words of memory out of 3000000
+ 7533 multiletter control sequences out of 15000+200000
+ 8568 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,31p,766b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/DEPIS01/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/DEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb>
+Output written on INTELIGENCIA_NEGOCIOS_TRABAJO_FINAL_I.pdf (26 pages, 3013582 
+bytes).
+PDF statistics:
+ 132 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
